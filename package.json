@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-notifier": "^9.0.1",
     "react": "^16.8.6",
     "react-dev-utils": "^11.0.4",
